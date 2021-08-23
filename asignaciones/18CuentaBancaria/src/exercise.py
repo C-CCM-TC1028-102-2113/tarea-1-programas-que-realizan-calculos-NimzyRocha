@@ -1,11 +1,11 @@
 def main():
     #escribe tu código abajo de esta línea
     pass
-pprint ("Dame el saldo del mes anterior:")
+print ("Dame el saldo del mes anterior:")
 saldoanterior = float (input())
-pprint ("Dame los ingresos:")
+print ("Dame los ingresos:")
 ingresos = float (input())
-pprint ("Dame los egresos:")
+print ("Dame los egresos:")
 egresos = float(input())
 pprint ("Dame el numero de cheques expedidos:")
 cheques = int(input())
