@@ -1,5 +1,5 @@
 def main():
-    print ("Dame los minutos:")
+print ("Dame los minutos:") 
 minutos = float(input())
 vel = 34.2
 distancia = minutos * vel
