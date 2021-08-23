@@ -5,6 +5,5 @@ vel = 34.2
 distancia = minutos * vel
 distancia=round(distancia,1)
 print ("Centímentros reccorridos:", distancia)
-    pass
 if __name__ == '__main__':
     main()
